@@ -2,7 +2,7 @@
 
 ### 一.总体流程图
 
-[HLS拉流过程Zlm.drawio](./images/HLS拉流过程Zlm.drawio.png)
+[HLS拉流过程Zlm.drawio](./Images/HLS拉流过程Zlm.drawio.png)
 
 ### 二.M3U8请求过程
 
